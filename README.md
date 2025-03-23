@@ -1,2 +1,2 @@
 # sub-two-numbers
-this program is to subtract
+this program is to subtract numbers
